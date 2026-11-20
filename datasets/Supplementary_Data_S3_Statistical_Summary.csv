@@ -1,0 +1,6 @@
+Image_Quality_Metric,Raw_Baseline_Mean,Raw_Baseline_SD,CLAHE_Enhanced_Mean,CLAHE_Enhanced_SD,Mean_Relative_Gain_Pct,Paired_t_statistic_df54,p_value,Effect_Size_Cohen_d,Statistical_Significance
+Tenengrad Edge Definition (A.U.),55.8721,5.6993,121.1853,10.0248,+117.5%,85.71,2.19e-59,11.56,"p < 0.001 (Extremely Significant, Very Large Effect Size)"
+Laplacian Structural Sharpness (A.U.),63.2048,17.3987,353.3239,89.7468,+463.6%,29.24,8.69e-35,3.94,"p < 0.001 (Extremely Significant, Very Large Effect Size)"
+Tonal Dynamic Spread (sigma),47.2421,3.0613,64.219,1.7992,+36.4%,43.51,1.00e-43,5.87,"p < 0.001 (Extremely Significant, Very Large Effect Size)"
+RMS Contrast (Normalized),0.3911,0.0544,0.5143,0.0198,+33.5%,22.77,2.34e-29,3.07,"p < 0.001 (Extremely Significant, Very Large Effect Size)"
+Shannon Information Entropy (bits/pixel),7.5522,0.0946,7.9289,0.0252,+5.0%,32.68,2.97e-37,4.41,"p < 0.001 (Extremely Significant, Very Large Effect Size)"
